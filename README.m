@@ -26,3 +26,17 @@ Built with Streamlit and scikit-learn
 
 Trained on a mock fitness dataset
 
+Tech Stack
+Python
+
+Pandas & NumPy – data handling
+
+Scikit-learn – regression modeling
+
+Streamlit – web app framework
+
+Matplotlib/Seaborn – optional for data visualization
+
+Added project README
+
+
