@@ -11,7 +11,7 @@ with open('scaler.sav', 'rb') as f:
 
 # Title and instructions
 st.set_page_config(page_title="Body Fat Predictor", layout="centered")
-st.title("💪 Body Fat Percentage Predictor")
+st.title("Body Fat Percentage Predictor")
 st.markdown("Enter your daily fitness metrics to estimate your body fat %.")
 
 # Input fields
